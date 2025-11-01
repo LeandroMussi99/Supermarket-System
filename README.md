@@ -66,6 +66,7 @@ Incluye autenticación de usuarios con roles, manejo de productos, compras, aler
 | `/informe/informes1`    | Informe general de inventario          |
 
 Estructura del proyecto
+
 src/
  ├─ main/
  │   ├─ java/com/unla/grupo22/tpc/
